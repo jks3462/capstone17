@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614713642852",
+    "project_id": "firebase-capstone17"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614713642852:android:cb15418545ced67b",
+        "android_client_info": {
+          "package_name": "com.example.jaskirat.capstone17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614713642852-ro67tqi76ke5vvhscn3aivu56ldoo72o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaskirat.capstone17",
+            "certificate_hash": "9DFC6AD93D1FDAE3E4E1065B64F01E20E6F3BBD8"
+          }
+        },
+        {
+          "client_id": "614713642852-cru08idnj1g2s72umbvj1gu3m3j90kgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvAn4IxVxyeRdt1dakVRP_p71fuwlPehQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
